@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6lzoFHuwYS4_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Interaction - Burger</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Interaction_-_Burger_ORG">
+    <organization identifier="Interaction_-_Burger_ORG">
+      <title>Interaction - Burger</title>
+      <item identifier="Interaction_-_Burger_SCO" isvisible="true" identifierref="__6lzoFHuwYS4_course_id_RES">
+        <title>Interaction - Burger</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6lzoFHuwYS4_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6ViTdkyxKFe_22_56_720x406.mp4" />
+      <file href="mobile/poster_6menqawKXjo_video_6ViTdkyxKFe_22_56_720x406.jpg" />
+      <file href="mobile/66V1s0kNT75_80_P_243_0_321_179_DX856_DY856_CX168_CY94.png" />
+      <file href="mobile/6PtpOPvJs3q_80_P_38_21_337_207_DX486_DY486_CX176_CY108.png" />
+      <file href="mobile/5vo8jSpXwJS_80_DX404_DY404_CX176_CY100.png" />
+      <file href="mobile/6InCAa5lwGC_80_DX374_DY374_CX193_CY90.png" />
+      <file href="mobile/6lyCho8N9SU_80_DX436_DY436_CX209_CY111.png" />
+      <file href="mobile/5ZqKY3zGGqt_80_DX300_DY300_CX209_CY149.png" />
+      <file href="mobile/5x0guyeAlLZ_80_P_0_59_190_99_DX486_DY486_CX152_CY79.png" />
+      <file href="mobile/5nTzwjlqYhh_80_P_246_209_322_182_DX956_DY956_CX151_CY86.png" />
+      <file href="mobile/6HR2Z5U8JIe_80_P_207_177_387_217_DX850_DY850_CX387_CY217.png" />
+      <file href="mobile/6jKVn0fDrnd_80_P_0_16_211_135_DX330_DY330_CX212_CY135.png" />
+      <file href="mobile/5sd440MfGC9_80_P_0_54_204_99_DX610_DY610_CX205_CY99.png" />
+      <file href="mobile/6lyCho8N9SU_80_DX436_DY436_CX367_CY195.png" />
+      <file href="mobile/6InCAa5lwGC_80_DX376_DY376_CX316_CY147.png" />
+      <file href="mobile/5vo8jSpXwJS_80_DX406_DY406_CX341_CY194.png" />
+      <file href="mobile/6PtpOPvJs3q_80_P_38_21_337_207_DX486_DY486_CX300_CY184.png" />
+      <file href="mobile/66V1s0kNT75_80_P_243_0_321_179_DX856_DY856_CX321_CY180.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5Vi64Lkge1U.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5vG0ziIsEFA.js" />
+      <file href="html5/data/js/6ERJ0sDSkuJ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
